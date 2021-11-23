@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-/content
-[<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" fill="none">
+
+<div><svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" fill="none">
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -161,4 +161,4 @@
     background-color: #0e1011 !important;
     border-color: #766c5f !important;
     color: #f2f0ed !important;
-}</style></svg>]
+}</style></svg></div>
