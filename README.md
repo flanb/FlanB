@@ -1,1 +1,1 @@
-The story of a 🍮
+The story of 🍮
